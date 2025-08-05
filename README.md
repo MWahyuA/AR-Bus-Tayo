@@ -56,7 +56,3 @@ Kami menerima kontribusi! Berikut cara Anda dapat berkontribusi pada proyek ini:
 ## Lisensi 📄
 
 Tidak ada lisensi yang ditentukan.
-
-
----
-README.md ini dihasilkan secara otomatis oleh [README.MD Generator](https://github.com/emRival) — dibuat dengan ❤️ oleh [emRival](https://github.com/emRival)
